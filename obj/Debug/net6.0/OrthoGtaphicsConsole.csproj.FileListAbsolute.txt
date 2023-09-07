@@ -1,0 +1,15 @@
+H:\source\C#\OrthoGtaphicsConsole\bin\Debug\net6.0\OrthoGtaphicsConsole.exe
+H:\source\C#\OrthoGtaphicsConsole\bin\Debug\net6.0\OrthoGtaphicsConsole.deps.json
+H:\source\C#\OrthoGtaphicsConsole\bin\Debug\net6.0\OrthoGtaphicsConsole.runtimeconfig.json
+H:\source\C#\OrthoGtaphicsConsole\bin\Debug\net6.0\OrthoGtaphicsConsole.dll
+H:\source\C#\OrthoGtaphicsConsole\bin\Debug\net6.0\OrthoGtaphicsConsole.pdb
+H:\source\C#\OrthoGtaphicsConsole\obj\Debug\net6.0\OrthoGtaphicsConsole.csproj.AssemblyReference.cache
+H:\source\C#\OrthoGtaphicsConsole\obj\Debug\net6.0\OrthoGtaphicsConsole.GeneratedMSBuildEditorConfig.editorconfig
+H:\source\C#\OrthoGtaphicsConsole\obj\Debug\net6.0\OrthoGtaphicsConsole.AssemblyInfoInputs.cache
+H:\source\C#\OrthoGtaphicsConsole\obj\Debug\net6.0\OrthoGtaphicsConsole.AssemblyInfo.cs
+H:\source\C#\OrthoGtaphicsConsole\obj\Debug\net6.0\OrthoGtaphicsConsole.csproj.CoreCompileInputs.cache
+H:\source\C#\OrthoGtaphicsConsole\obj\Debug\net6.0\OrthoGtaphicsConsole.dll
+H:\source\C#\OrthoGtaphicsConsole\obj\Debug\net6.0\refint\OrthoGtaphicsConsole.dll
+H:\source\C#\OrthoGtaphicsConsole\obj\Debug\net6.0\OrthoGtaphicsConsole.pdb
+H:\source\C#\OrthoGtaphicsConsole\obj\Debug\net6.0\OrthoGtaphicsConsole.genruntimeconfig.cache
+H:\source\C#\OrthoGtaphicsConsole\obj\Debug\net6.0\ref\OrthoGtaphicsConsole.dll
